@@ -7,7 +7,7 @@ Integrantes:
 - Parisato Tadeo
 - Teruel Nahuel Cristobal
 
-[Archivo de Gestión de Configuración completo](/Práctico/TP_04/TP_04_Herramientas%20de%20SCM.PDF)
+[Archivo de Gestión de Configuración completo](/Práctico/TP_04/TP_04_Herramientas%20de%20SCM.pdf)
 
 ## Listado de Ítems de Configuración
 | Nombre del Ítem de Configuración                | Regla de Nombrado                                                     | Ubicación Física  |
